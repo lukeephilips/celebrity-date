@@ -31,3 +31,7 @@
 .form-group {
   width: 25%;
 }
+
+.error {
+  background-color: red;
+}
